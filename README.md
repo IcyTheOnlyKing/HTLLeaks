@@ -19,3 +19,5 @@ Eine futuristische Mediengalerie, die Tailwind CSS, Bootstrap 5 und moderne Glas
 
 ## Lizenz
 Dieses Template steht dir frei zur Verfügung. Viel Spaß beim Gestalten!
+
+https://htlleaks.pages.dev/
