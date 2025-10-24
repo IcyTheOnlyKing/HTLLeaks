@@ -1,0 +1,32 @@
+{
+  "generatedAt": "2025-10-24T09:21:02.515Z",
+  "items": [
+    {
+      "type": "image",
+      "title": "Sample 1",
+      "description": "",
+      "src": "assets/gallery/sample-1.svg",
+      "tags": [
+        "Image"
+      ]
+    },
+    {
+      "type": "image",
+      "title": "Sample 2",
+      "description": "",
+      "src": "assets/gallery/sample-2.svg",
+      "tags": [
+        "Image"
+      ]
+    },
+    {
+      "type": "image",
+      "title": "Sample 3",
+      "description": "",
+      "src": "assets/gallery/sample-3.svg",
+      "tags": [
+        "Image"
+      ]
+    }
+  ]
+}
