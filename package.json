@@ -1,0 +1,8 @@
+{
+  "name": "htlleaks-gallery",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "generate:manifest": "node scripts/generate-gallery-manifest.mjs"
+  }
+}
